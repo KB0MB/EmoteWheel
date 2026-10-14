@@ -1,6 +1,6 @@
 # EmoteWheel
 
-Emote wheel for Tears of the Kingdom 1.2.1, built with WiiXLaunch and exlaunch.
+Emote wheel for Tears of the Kingdom 1.2.1, built with WiiXLaunch.
 
 Build with devkitPro/devkitA64: `make -j4`. See [BUILDING.txt](BUILDING.txt).
 Output: `deploy/subsdk4` and `deploy/main.npdm`.
